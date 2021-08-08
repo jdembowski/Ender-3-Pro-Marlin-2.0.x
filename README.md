@@ -12,4 +12,5 @@ The Ender 3 Pro has the following components.
 - BTT TFT35 E3 V3.0 Graphic Smart Display
 - 28 Neopixel LEDs
 
-Working on Marln 2.0.9.1
+Works on Marln 2.0.9.1
+When using Auto Build Marlin make sure the build is for STM32F103RC_btt
