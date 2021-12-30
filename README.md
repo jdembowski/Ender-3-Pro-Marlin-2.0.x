@@ -11,8 +11,8 @@ The Ender 3 Pro has the following components.
 - Simple filament runout switch
 - [BTT TFT35 E3 V3.0 Graphic Smart Display](https://www.biqu.equipment/products/btt-tft35-e3-v3-0-display-touch-screen-two-working-modes)
 - [28 Neopixel LEDs](https://www.adafruit.com/product/1376)
-- X and Y sensorless endstops (diag junmpers on X and Y only)
-- BL Touch bed sensor
+- X and Y sensorless endstops (diag jumpers on X and Y only)
+- BL Touch bed sensors
 
-Works on Marln 2.0.9.2
+Works on Marln 2.0.9.3
 When using Auto Build Marlin make sure the build is for STM32F103RC_btt
