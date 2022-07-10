@@ -14,7 +14,6 @@ The Ender 3 Pro has the following components.
 - X and Y sensorless endstops (diag jumpers on X and Y only)
 - BL Touch bed sensors
 - [Installed Hero Me Gen 6 parts cooler](https://www.printables.com/model/39322-hero-me-gen6-master-suite)
-- Disabled DEFAULT_STEPPER_DEACTIVE_TIME after ruining prints that needed me to insert part into
 
 Works on Marln 2.1
 When using Auto Build Marlin make sure the build is for STM32F103RC_btt
