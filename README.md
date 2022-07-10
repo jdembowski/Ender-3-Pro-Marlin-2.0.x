@@ -11,7 +11,7 @@ The Ender 3 Pro has the following components.
 - Simple filament runout switch
 - [28 Neopixel LEDs](https://www.adafruit.com/product/1376)
 - X and Y sensorless endstops (diag jumpers on X and Y only)
-- BL Touch bed sensors
+- BL Touch bed sensor
 - [Installed Hero Me Gen 6 parts cooler](https://www.printables.com/model/39322-hero-me-gen6-master-suite)
 
 Works on Marln 2.1
